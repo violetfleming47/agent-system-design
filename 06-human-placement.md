@@ -149,4 +149,4 @@ You now have:
 5. **Layer Structure** — where infrastructure and domain separate
 6. **Human Placement** — governance, trust, and the learning boundary
 
-To fill your agents with the right knowledge, move to **Agent Knowledge Curator**. To understand where your system might be fragile, use **Agent Drift Prevention**. To challenge your assumptions, try **Agent Blind Spots**.
+To fill your agents with the right knowledge, move to **Agent Knowledge Curator**. To understand where your system might be fragile, use **Agent Drift Prevention**. To challenge your assumptions, try **Agent Edge Cases**.
