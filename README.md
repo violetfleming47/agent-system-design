@@ -62,3 +62,18 @@ The `references/` directory contains the principles and patterns each skill draw
 Bring a workflow, a system, or a problem. Start with Judgment Mapping and work through the skills in order. Or jump to the specific skill that matches your current challenge.
 
 Each skill is conversational — describe your situation and the skill walks you through the design methodology, producing architecture decisions grounded in the principles from the reference documents.
+
+---
+
+## About
+
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+
+Part of a suite of open-source agent design tools:
+- **Agent System Design** — design and decompose agent systems
+- [Agent Knowledge Curator](https://github.com/violetfleming47/agent-knowledge-curator) — capture institutional knowledge
+- [Agent Drift Prevention](https://github.com/violetfleming47/agent-drift-prevention) — prevent silent degradation
+- [Agent Edge Cases](https://github.com/violetfleming47/agent-edge-cases) — failure modes you haven't considered
+- [Agent System Review](https://github.com/violetfleming47/agent-system-review) — architectural review of existing systems
+
+Licensed under [CC BY-NC 4.0](LICENSE).
