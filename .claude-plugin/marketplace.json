@@ -1,0 +1,16 @@
+{
+  "name": "agent-system-design",
+  "description": "Design and decompose agent systems that hold in production, by judgment rather than task.",
+  "owner": {
+    "name": "Violet Fleming",
+    "url": "https://github.com/violetfleming47"
+  },
+  "plugins": [
+    {
+      "name": "agent-system-design",
+      "source": "./",
+      "description": "Design and decompose agent systems that hold in production, by judgment rather than task.",
+      "version": "1.0.0"
+    }
+  ]
+}

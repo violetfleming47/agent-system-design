@@ -1,3 +1,8 @@
+---
+name: agent-design-lens-identification
+description: Determine the single analytical lens each agent judgment requires (one lens per agent) to stop agents cross-contaminating perspectives. Use after judgment mapping, when assigning a perspective to each agent in a system design.
+---
+
 # Lens Identification
 
 > Determine what analytical perspective each judgment requires — because the lens creates the finding, not the other way around.

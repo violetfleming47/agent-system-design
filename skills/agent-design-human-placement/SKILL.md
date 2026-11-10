@@ -1,3 +1,8 @@
+---
+name: agent-design-human-placement
+description: Design where humans sit in the agent loop — after complete work, before consequences — with asymmetric trust boundaries. Use when deciding review and approval points and human-in-the-loop gating for an agent system.
+---
+
 # Human Placement
 
 > Design where humans sit in the loop and what governance boundaries keep the system aligned over time.

@@ -1,3 +1,8 @@
+---
+name: agent-design-composition
+description: Design how decisions flow between agents through inheritance so downstream agents do not re-interpret upstream calls. Use when chaining multiple agents into a pipeline and passing context and confidence forward.
+---
+
 # Composition
 
 > Design how agents inherit decisions and what flows between them — so no judgment gets re-interpreted downstream.

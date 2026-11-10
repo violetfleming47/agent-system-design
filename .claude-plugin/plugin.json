@@ -1,0 +1,19 @@
+{
+  "name": "agent-system-design",
+  "description": "Design and decompose agent systems that hold in production, by judgment rather than task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Violet Fleming",
+    "url": "https://github.com/violetfleming47"
+  },
+  "homepage": "https://github.com/violetfleming47/agent-system-design",
+  "repository": "https://github.com/violetfleming47/agent-system-design",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "agent-design",
+    "multi-agent",
+    "decomposition",
+    "scope-control",
+    "human-in-the-loop"
+  ]
+}

@@ -38,7 +38,7 @@ Design where humans sit in the loop. After complete work, before consequences. O
 
 ## Reference Documents
 
-The `references/` directory contains the principles and patterns each skill draws from:
+Each skill folder includes the reference documents it draws from:
 
 - **Judgment and Lens Separation** — why one lens per agent, and how to identify genuine judgment boundaries
 - **Cross-Contamination Patterns** — how models cross-pollinate perspectives and why the output looks fine when it isn't
@@ -65,9 +65,46 @@ Each skill is conversational — describe your situation and the skill walks you
 
 ---
 
+## Install
+
+### Claude Code (as a plugin)
+
+```
+/plugin marketplace add violetfleming47/agent-system-design
+/plugin install agent-system-design@agent-system-design
+```
+
+### Claude Code (manual copy)
+
+```bash
+git clone https://github.com/violetfleming47/agent-system-design.git
+cp -R agent-system-design/skills/* ~/.claude/skills/
+```
+
+### Claude apps (claude.ai, Desktop)
+
+Download a skill's `.zip` from the [latest release](https://github.com/violetfleming47/agent-system-design/releases/latest) and upload it under Skills in Claude's settings.
+
+### Other harnesses (Cursor, Windsurf, custom agents)
+
+Each `SKILL.md` is plain markdown. Load it as a rule or system prompt, and keep its `references/` folder alongside it.
+
+### What's included
+
+Every skill is a self-contained folder under `skills/`, with a `SKILL.md` and the reference documents it draws on:
+
+- `agent-design-judgment-mapping`
+- `agent-design-lens-identification`
+- `agent-design-scope-definition`
+- `agent-design-composition`
+- `agent-design-layer-structure`
+- `agent-design-human-placement`
+
+---
+
 ## About
 
-Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems — the same thinking behind [Orion](https://github.com/violetfleming47).
+Created by [Violet Fleming](https://github.com/violetfleming47). These tools are grounded in a design philosophy developed across production multi-agent systems.
 
 Part of a suite of open-source agent design tools:
 - **Agent System Design** — design and decompose agent systems

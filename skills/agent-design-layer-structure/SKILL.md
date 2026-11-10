@@ -1,3 +1,8 @@
+---
+name: agent-design-layer-structure
+description: Identify the eight architectural layers an agent system needs (routing, orchestration, data-reading guides, reasoning frameworks, skills, context assembly, metadata and learning, lifecycle). Use when auditing or planning the overall structure of an agent system.
+---
+
 # Layer Structure
 
 > Determine where routing, orchestration, context assembly, and lifecycle sit — and keep them separate from domain agents.

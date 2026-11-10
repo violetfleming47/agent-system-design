@@ -1,3 +1,8 @@
+---
+name: agent-design-judgment-mapping
+description: Decompose an agent workflow by judgment rather than task — find where the distinct judgment calls live before deciding how many agents you need. Use when designing or refactoring a multi-agent system and deciding how to split responsibilities.
+---
+
 # Judgment Mapping
 
 > Identify where the distinct judgments live in a workflow — before deciding how many agents you need or what they do.

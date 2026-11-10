@@ -1,3 +1,8 @@
+---
+name: agent-design-scope-definition
+description: Fill an agent's reasoning space with frameworks, noise-naming, and prohibitions so there is nowhere left to drift. Use when defining what one agent sees, ignores, and must not do.
+---
+
 # Scope Definition
 
 > Fill each agent's reasoning space so completely that there's nowhere left to drift.
